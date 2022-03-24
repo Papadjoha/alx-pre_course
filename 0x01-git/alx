@@ -1,6 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
+
 echo "Alc school is so school!"
-=======
 echo "ALX school"
->>>>>>> update_script
